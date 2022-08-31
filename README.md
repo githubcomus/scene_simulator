@@ -1,6 +1,5 @@
-# scene_simulator
+# 场景编辑器
 
-场景编辑器
 
 视频:https://www.bilibili.com/video/BV19b4y1Y7tH
 
